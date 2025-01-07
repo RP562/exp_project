@@ -34,6 +34,6 @@ def play_game(rounds):
     
 
 if __name__=="__main__":
-    play_game(5)
+    play_game(6)
 
 
